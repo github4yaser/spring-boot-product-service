@@ -1,0 +1,10 @@
+http://localhost:8080/cart/product?productId=12345
+
+
+http://localhost:8080/cart/product
+
+{
+    "productId":"12345",
+    "name":"laptop",
+    "amount":"50000"
+}
